@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mi-primer-proyecto', //Nombre del repositorio
+  base: '/mi-primer-proyecto/', //Nombre del repositorio
 })
